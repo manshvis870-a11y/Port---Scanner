@@ -23,4 +23,4 @@ To learn how hackers find open ports and how defenders protect them. This is my 
 - Ethical Hacking - Only scan your own systems
 
 ### Made by
-[Your Name] | BCA 2nd Year Student | Interested in Cybersecurity & France
+[Manshvi Sharma] | BCA 2nd Year Student | Interested in Cybersecurity & France
