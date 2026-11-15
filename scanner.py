@@ -1,5 +1,5 @@
 # My First Cybersecurity Tool - Port Scanner
-# Made by [Your Name] | BCA Student
+# Made by [Manshvi sharma] | BCA Student
 
 import socket
 from datetime import datetime
